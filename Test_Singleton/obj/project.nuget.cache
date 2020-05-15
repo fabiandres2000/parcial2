@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "trG7qRkymUEsgwWHSs93KNNivcpmMdT9rKDKpvogCdtquIuYlONH0jT/1shqWxaiZhbBYDC3Ar/W53FH+TzRew==",
+  "dgSpecHash": "AtFKjZClTOty3e4ypRDf7vdwYeh5lRk3WjO0XfvqnjlWTJxh8UwT48PC2mSV7DAE0zH6BmZ7po1quu/hxooplg==",
   "success": true,
-  "projectFilePath": "C:\\parcial_2\\parcial_practico\\Test_Singleton\\Test_Singleton.csproj",
+  "projectFilePath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Singleton\\Test_Singleton.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabian quintero\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\parcial_2\\parcial_practico\\Test_Prototype\\Test_Prototype.csproj": {}
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Prototype\\Test_Prototype.csproj": {}
   },
   "projects": {
-    "C:\\parcial_2\\parcial_practico\\Prototype\\Prototype.csproj": {
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Prototype\\Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Prototype\\Prototype.csproj",
+        "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Prototype\\Prototype.csproj",
         "projectName": "Prototype",
-        "projectPath": "C:\\parcial_2\\parcial_practico\\Prototype\\Prototype.csproj",
+        "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Prototype\\Prototype.csproj",
         "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-        "outputPath": "C:\\parcial_2\\parcial_practico\\Prototype\\obj\\",
+        "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\parcial_2\\parcial_practico\\Test_Prototype\\Test_Prototype.csproj": {
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Prototype\\Test_Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Test_Prototype\\Test_Prototype.csproj",
+        "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Prototype\\Test_Prototype.csproj",
         "projectName": "Test_Prototype",
-        "projectPath": "C:\\parcial_2\\parcial_practico\\Test_Prototype\\Test_Prototype.csproj",
+        "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Prototype\\Test_Prototype.csproj",
         "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-        "outputPath": "C:\\parcial_2\\parcial_practico\\Test_Prototype\\obj\\",
+        "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\parcial_2\\parcial_practico\\Prototype\\Prototype.csproj": {
-                "projectPath": "C:\\parcial_2\\parcial_practico\\Prototype\\Prototype.csproj"
+              "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Prototype\\Prototype.csproj": {
+                "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Prototype\\Prototype.csproj"
               }
             }
           }

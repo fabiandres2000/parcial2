@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\parcial_2\\parcial_practico\\factory_method\\factory_method.csproj",
+      "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\factory_method\\factory_method.csproj",
       "projectName": "factory_method",
-      "projectPath": "C:\\parcial_2\\parcial_practico\\factory_method\\factory_method.csproj",
+      "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\factory_method\\factory_method.csproj",
       "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-      "outputPath": "C:\\parcial_2\\parcial_practico\\factory_method\\obj\\",
+      "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\factory_method\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

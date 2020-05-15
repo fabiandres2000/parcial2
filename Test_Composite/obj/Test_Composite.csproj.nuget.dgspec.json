@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\parcial_2\\parcial_practico\\Test_Composite\\Test_Composite.csproj": {}
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Composite\\Test_Composite.csproj": {}
   },
   "projects": {
-    "C:\\parcial_2\\parcial_practico\\Composite\\Composite.csproj": {
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Composite\\Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Composite\\Composite.csproj",
+        "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Composite\\Composite.csproj",
         "projectName": "Composite",
-        "projectPath": "C:\\parcial_2\\parcial_practico\\Composite\\Composite.csproj",
+        "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Composite\\Composite.csproj",
         "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-        "outputPath": "C:\\parcial_2\\parcial_practico\\Composite\\obj\\",
+        "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Composite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\parcial_2\\parcial_practico\\Test_Composite\\Test_Composite.csproj": {
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Composite\\Test_Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Test_Composite\\Test_Composite.csproj",
+        "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Composite\\Test_Composite.csproj",
         "projectName": "Test_Composite",
-        "projectPath": "C:\\parcial_2\\parcial_practico\\Test_Composite\\Test_Composite.csproj",
+        "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Composite\\Test_Composite.csproj",
         "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-        "outputPath": "C:\\parcial_2\\parcial_practico\\Test_Composite\\obj\\",
+        "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Composite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\parcial_2\\parcial_practico\\Composite\\Composite.csproj": {
-                "projectPath": "C:\\parcial_2\\parcial_practico\\Composite\\Composite.csproj"
+              "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Composite\\Composite.csproj": {
+                "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Composite\\Composite.csproj"
               }
             }
           }

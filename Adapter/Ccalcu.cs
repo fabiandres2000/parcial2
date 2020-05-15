@@ -6,7 +6,7 @@ namespace Adapter
 {
    public class Ccalcu : Itarget
     {
-        public int suma(int a, int b)
+        public int Suma(int a, int b)
         {
             return a + b;
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Fachada\\Fachada.csproj",
+      "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Fachada\\Fachada.csproj",
       "projectName": "Fachada",
-      "projectPath": "C:\\parcial_2\\parcial_practico\\Fachada\\Fachada.csproj",
+      "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Fachada\\Fachada.csproj",
       "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-      "outputPath": "C:\\parcial_2\\parcial_practico\\Fachada\\obj\\",
+      "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Fachada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

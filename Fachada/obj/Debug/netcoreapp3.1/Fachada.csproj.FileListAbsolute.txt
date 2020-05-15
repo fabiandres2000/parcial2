@@ -11,3 +11,16 @@ C:\parcial_2\parcial_practico\Fachada\obj\Debug\netcoreapp3.1\Fachada.AssemblyIn
 C:\parcial_2\parcial_practico\Fachada\obj\Debug\netcoreapp3.1\Fachada.dll
 C:\parcial_2\parcial_practico\Fachada\obj\Debug\netcoreapp3.1\Fachada.pdb
 C:\parcial_2\parcial_practico\Fachada\obj\Debug\netcoreapp3.1\Fachada.genruntimeconfig.cache
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\bin\Debug\netcoreapp3.1\Fachada.exe
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\bin\Debug\netcoreapp3.1\Fachada.deps.json
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\bin\Debug\netcoreapp3.1\Fachada.runtimeconfig.json
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\bin\Debug\netcoreapp3.1\Fachada.runtimeconfig.dev.json
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\bin\Debug\netcoreapp3.1\Fachada.dll
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\bin\Debug\netcoreapp3.1\Fachada.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\obj\Debug\netcoreapp3.1\Fachada.csprojAssemblyReference.cache
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\obj\Debug\netcoreapp3.1\Fachada.csproj.CoreCompileInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\obj\Debug\netcoreapp3.1\Fachada.AssemblyInfoInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\obj\Debug\netcoreapp3.1\Fachada.AssemblyInfo.cs
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\obj\Debug\netcoreapp3.1\Fachada.dll
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\obj\Debug\netcoreapp3.1\Fachada.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Fachada\obj\Debug\netcoreapp3.1\Fachada.genruntimeconfig.cache

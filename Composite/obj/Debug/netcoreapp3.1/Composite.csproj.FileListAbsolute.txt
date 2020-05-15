@@ -11,3 +11,16 @@ C:\parcial_2\parcial_practico\Composite\obj\Debug\netcoreapp3.1\Composite.Assemb
 C:\parcial_2\parcial_practico\Composite\obj\Debug\netcoreapp3.1\Composite.dll
 C:\parcial_2\parcial_practico\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
 C:\parcial_2\parcial_practico\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
+C:\Users\fabian quintero\Desktop\parcial2\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\fabian quintero\Desktop\parcial2\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\fabian quintero\Desktop\parcial2\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\fabian quintero\Desktop\parcial2\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\fabian quintero\Desktop\parcial2\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\fabian quintero\Desktop\parcial2\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Users\fabian quintero\Desktop\parcial2\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\fabian quintero\Desktop\parcial2\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\fabian quintero\Desktop\parcial2\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache

@@ -11,3 +11,16 @@ C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.Assemb
 C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
 C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
 C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache

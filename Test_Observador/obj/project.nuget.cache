@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xoM5qY58avRg0t07FqNPlq+vKOncREMk8W/7nLGKadSBNN9nR+3VT1QzB6wXLnmrTq5SQjQjBuop8BCvI074/w==",
+  "dgSpecHash": "fOF9tRw45Ut4CMyWuaK5ccBJ/SLKkYe8viw88AZgayekFLZQ/pbYwNAL8HHFwk/tTlcL+7zdkvyuIl7S4sSZ4g==",
   "success": true,
-  "projectFilePath": "C:\\parcial_2\\parcial_practico\\Test_Observador\\Test_Observador.csproj",
+  "projectFilePath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Observador\\Test_Observador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabian quintero\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

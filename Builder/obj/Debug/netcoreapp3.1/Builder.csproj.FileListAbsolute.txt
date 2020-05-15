@@ -23,3 +23,16 @@ C:\parcial_2\parcial_practico\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyIn
 C:\parcial_2\parcial_practico\Builder\obj\Debug\netcoreapp3.1\Builder.dll
 C:\parcial_2\parcial_practico\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
 C:\parcial_2\parcial_practico\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
+C:\Users\fabian quintero\Desktop\parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\fabian quintero\Desktop\parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\fabian quintero\Desktop\parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\fabian quintero\Desktop\parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\fabian quintero\Desktop\parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\fabian quintero\Desktop\parcial2\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\fabian quintero\Desktop\parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\fabian quintero\Desktop\parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\fabian quintero\Desktop\parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\parcial_2\\parcial_practico\\Test_Fachada\\Test_Fachada.csproj": {}
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Fachada\\Test_Fachada.csproj": {}
   },
   "projects": {
-    "C:\\parcial_2\\parcial_practico\\Fachada\\Fachada.csproj": {
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Fachada\\Fachada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Fachada\\Fachada.csproj",
+        "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Fachada\\Fachada.csproj",
         "projectName": "Fachada",
-        "projectPath": "C:\\parcial_2\\parcial_practico\\Fachada\\Fachada.csproj",
+        "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Fachada\\Fachada.csproj",
         "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-        "outputPath": "C:\\parcial_2\\parcial_practico\\Fachada\\obj\\",
+        "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Fachada\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\parcial_2\\parcial_practico\\Test_Fachada\\Test_Fachada.csproj": {
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Fachada\\Test_Fachada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Test_Fachada\\Test_Fachada.csproj",
+        "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Fachada\\Test_Fachada.csproj",
         "projectName": "Test_Fachada",
-        "projectPath": "C:\\parcial_2\\parcial_practico\\Test_Fachada\\Test_Fachada.csproj",
+        "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Fachada\\Test_Fachada.csproj",
         "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-        "outputPath": "C:\\parcial_2\\parcial_practico\\Test_Fachada\\obj\\",
+        "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Fachada\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\parcial_2\\parcial_practico\\Fachada\\Fachada.csproj": {
-                "projectPath": "C:\\parcial_2\\parcial_practico\\Fachada\\Fachada.csproj"
+              "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Fachada\\Fachada.csproj": {
+                "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Fachada\\Fachada.csproj"
               }
             }
           }

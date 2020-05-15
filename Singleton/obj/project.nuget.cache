@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wJXl7h4arTnlIFTJ7TN36lLBkHcx4bpJ88CGt1Yevosg+vCOJnJQb5w0T7HmBte6zDVfDDry56fRWIPAk3Q5fQ==",
+  "dgSpecHash": "a3dqxaDT/r9VLOrcVOSAjhZp9Pbq0gIc9Lbjy2R1nvg45N20HcbesUChxDWXyF1olr+NSw8A4WfpENWBgMyU7Q==",
   "success": true,
-  "projectFilePath": "C:\\parcial_2\\parcial_practico\\Singleton\\Singleton.csproj",
+  "projectFilePath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

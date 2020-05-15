@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j12+Us9ruJI32lsQZTwaocqFq+QWD7Ns7891oEcC9cJXTfKtd9k1MqH+Ssa01KrSHDjY9I32UZ4vlNjWd1TYow==",
+  "dgSpecHash": "I8jPGs2WjRkEVwMDz16y8OUEcgrQcyD87tc7cBJYuKsleHfdJRQ63vp4sSvTbJCKLDiSd+iL4vKSz2YBU4K7cQ==",
   "success": true,
-  "projectFilePath": "C:\\parcial_2\\parcial_practico\\Test_Adaptador\\Test_Adaptador.csproj",
+  "projectFilePath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Adaptador\\Test_Adaptador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabian quintero\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

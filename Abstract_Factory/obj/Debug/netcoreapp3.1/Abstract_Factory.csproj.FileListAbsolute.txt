@@ -24,3 +24,16 @@ C:\parcial_2\parcial_practico\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_
 C:\parcial_2\parcial_practico\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.dll
 C:\parcial_2\parcial_practico\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.pdb
 C:\parcial_2\parcial_practico\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.genruntimeconfig.cache
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.exe
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.deps.json
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.runtimeconfig.json
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.runtimeconfig.dev.json
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.dll
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\bin\Debug\netcoreapp3.1\Abstract_Factory.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.csprojAssemblyReference.cache
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.csproj.CoreCompileInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.AssemblyInfoInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.AssemblyInfo.cs
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.dll
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Abstract_Factory\obj\Debug\netcoreapp3.1\Abstract_Factory.genruntimeconfig.cache

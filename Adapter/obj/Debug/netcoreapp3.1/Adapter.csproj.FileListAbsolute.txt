@@ -23,3 +23,16 @@ C:\parcial_2\parcial_practico\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyIn
 C:\parcial_2\parcial_practico\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
 C:\parcial_2\parcial_practico\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
 C:\parcial_2\parcial_practico\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\fabian quintero\Desktop\parcial2\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

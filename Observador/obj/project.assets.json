@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Observador\\Observador.csproj",
+      "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Observador\\Observador.csproj",
       "projectName": "Observador",
-      "projectPath": "C:\\parcial_2\\parcial_practico\\Observador\\Observador.csproj",
+      "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Observador\\Observador.csproj",
       "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-      "outputPath": "C:\\parcial_2\\parcial_practico\\Observador\\obj\\",
+      "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Observador\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

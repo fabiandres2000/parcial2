@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\parcial_2\\parcial_practico\\Singleton\\Singleton.csproj": {}
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "C:\\parcial_2\\parcial_practico\\Singleton\\Singleton.csproj": {
+    "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "C:\\parcial_2\\parcial_practico\\Singleton\\Singleton.csproj",
+        "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-        "outputPath": "C:\\parcial_2\\parcial_practico\\Singleton\\obj\\",
+        "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

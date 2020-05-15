@@ -4605,11 +4605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\parcial_2\\parcial_practico\\TestBuilder\\Test_Builder.csproj",
+      "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\TestBuilder\\Test_Builder.csproj",
       "projectName": "Test_Builder",
-      "projectPath": "C:\\parcial_2\\parcial_practico\\TestBuilder\\Test_Builder.csproj",
+      "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\TestBuilder\\Test_Builder.csproj",
       "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-      "outputPath": "C:\\parcial_2\\parcial_practico\\TestBuilder\\obj\\",
+      "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\TestBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4628,8 +4628,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\parcial_2\\parcial_practico\\Builder\\Builder.csproj": {
-              "projectPath": "C:\\parcial_2\\parcial_practico\\Builder\\Builder.csproj"
+            "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Builder\\Builder.csproj": {
+              "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Builder\\Builder.csproj"
             }
           }
         }

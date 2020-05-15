@@ -4605,11 +4605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\parcial_2\\parcial_practico\\Test_Observador\\Test_Observador.csproj",
+      "projectUniqueName": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Observador\\Test_Observador.csproj",
       "projectName": "Test_Observador",
-      "projectPath": "C:\\parcial_2\\parcial_practico\\Test_Observador\\Test_Observador.csproj",
+      "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Observador\\Test_Observador.csproj",
       "packagesPath": "C:\\Users\\fabian quintero\\.nuget\\packages\\",
-      "outputPath": "C:\\parcial_2\\parcial_practico\\Test_Observador\\obj\\",
+      "outputPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Test_Observador\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4628,8 +4628,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\parcial_2\\parcial_practico\\Observador\\Observador.csproj": {
-              "projectPath": "C:\\parcial_2\\parcial_practico\\Observador\\Observador.csproj"
+            "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Observador\\Observador.csproj": {
+              "projectPath": "C:\\Users\\fabian quintero\\Desktop\\parcial2\\Observador\\Observador.csproj"
             }
           }
         }
