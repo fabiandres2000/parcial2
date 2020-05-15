@@ -1,0 +1,13 @@
+C:\parcial_2\parcial_practico\Observador\bin\Debug\netcoreapp3.1\Observador.exe
+C:\parcial_2\parcial_practico\Observador\bin\Debug\netcoreapp3.1\Observador.deps.json
+C:\parcial_2\parcial_practico\Observador\bin\Debug\netcoreapp3.1\Observador.runtimeconfig.json
+C:\parcial_2\parcial_practico\Observador\bin\Debug\netcoreapp3.1\Observador.runtimeconfig.dev.json
+C:\parcial_2\parcial_practico\Observador\bin\Debug\netcoreapp3.1\Observador.dll
+C:\parcial_2\parcial_practico\Observador\bin\Debug\netcoreapp3.1\Observador.pdb
+C:\parcial_2\parcial_practico\Observador\obj\Debug\netcoreapp3.1\Observador.csprojAssemblyReference.cache
+C:\parcial_2\parcial_practico\Observador\obj\Debug\netcoreapp3.1\Observador.csproj.CoreCompileInputs.cache
+C:\parcial_2\parcial_practico\Observador\obj\Debug\netcoreapp3.1\Observador.AssemblyInfoInputs.cache
+C:\parcial_2\parcial_practico\Observador\obj\Debug\netcoreapp3.1\Observador.AssemblyInfo.cs
+C:\parcial_2\parcial_practico\Observador\obj\Debug\netcoreapp3.1\Observador.dll
+C:\parcial_2\parcial_practico\Observador\obj\Debug\netcoreapp3.1\Observador.pdb
+C:\parcial_2\parcial_practico\Observador\obj\Debug\netcoreapp3.1\Observador.genruntimeconfig.cache

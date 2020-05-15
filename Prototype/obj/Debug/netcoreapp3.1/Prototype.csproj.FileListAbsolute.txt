@@ -1,0 +1,13 @@
+C:\parcial_2\parcial_practico\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\parcial_2\parcial_practico\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\parcial_2\parcial_practico\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\parcial_2\parcial_practico\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\parcial_2\parcial_practico\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\parcial_2\parcial_practico\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\parcial_2\parcial_practico\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.exe
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.deps.json
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.runtimeconfig.json
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.runtimeconfig.dev.json
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.dll
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.pdb
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.csprojAssemblyReference.cache
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.csproj.CoreCompileInputs.cache
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.AssemblyInfoInputs.cache
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.AssemblyInfo.cs
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.dll
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.pdb
+C:\Users\fabian quintero\source\repos\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.genruntimeconfig.cache
+C:\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.exe
+C:\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.deps.json
+C:\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.runtimeconfig.json
+C:\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.runtimeconfig.dev.json
+C:\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.dll
+C:\parcial_2\parcial_practico\factory_method\bin\Debug\netcoreapp3.1\factory_method.pdb
+C:\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.csprojAssemblyReference.cache
+C:\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.csproj.CoreCompileInputs.cache
+C:\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.AssemblyInfoInputs.cache
+C:\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.AssemblyInfo.cs
+C:\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.dll
+C:\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.pdb
+C:\parcial_2\parcial_practico\factory_method\obj\Debug\netcoreapp3.1\factory_method.genruntimeconfig.cache
